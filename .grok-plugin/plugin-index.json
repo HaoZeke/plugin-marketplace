@@ -591,8 +591,8 @@
       }
     },
     "nimvault": {
-      "sha": "4cca2e1aaffbb46b678259cd0123fe44dc464800",
-      "version": "0.3.6",
+      "sha": "44766cb7170307b95d795099570a0eaa0570c1ad",
+      "version": "0.3.7",
       "components": {
         "commands": [
           {
